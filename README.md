@@ -1,1 +1,1 @@
-"# NegativeCommentsCheck" 
+# NegativeCommentsCheck
